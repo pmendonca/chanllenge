@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "game", "game\game.csproj", "{1939F7AD-E23E-44EA-9BEA-9C3BC9FEB071}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "game.tests", "game.tests\game.tests.csproj", "{695E9044-C787-4855-A939-C91745B9D4F5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "game.client", "game.client\game.client.csproj", "{105EEE14-9C45-404C-AC54-DF2C6E3EF659}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1939F7AD-E23E-44EA-9BEA-9C3BC9FEB071}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1939F7AD-E23E-44EA-9BEA-9C3BC9FEB071}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1939F7AD-E23E-44EA-9BEA-9C3BC9FEB071}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1939F7AD-E23E-44EA-9BEA-9C3BC9FEB071}.Release|Any CPU.Build.0 = Release|Any CPU
+		{695E9044-C787-4855-A939-C91745B9D4F5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{695E9044-C787-4855-A939-C91745B9D4F5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{695E9044-C787-4855-A939-C91745B9D4F5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{695E9044-C787-4855-A939-C91745B9D4F5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{105EEE14-9C45-404C-AC54-DF2C6E3EF659}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{105EEE14-9C45-404C-AC54-DF2C6E3EF659}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{105EEE14-9C45-404C-AC54-DF2C6E3EF659}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{105EEE14-9C45-404C-AC54-DF2C6E3EF659}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
